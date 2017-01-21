@@ -2,7 +2,9 @@
 ## Reinforcement Learning
 ### Project: Train a Smartcab How to Drive
 
-A Smartcab was trained to follow US Traffic Laws. Its efficiency was measured based on the number of times in reached the goal within time or number of accidents it got involved in.
+A Smartcab was trained to follow US Traffic Laws. Its efficiency was measured based on the number of times in reached the goal within time or number of accidents it got involved in. The project uses Q Learning algorithm to find optimal utility of each state to find the optimal policy.
+
+The optimal policy is the action which car takes to navigate complex situations which it encounters while driving a car. 
 
 ### Install
 
